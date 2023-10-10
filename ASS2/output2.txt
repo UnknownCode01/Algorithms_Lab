@@ -1,0 +1,3 @@
+GCD of 8 and 122 is 2
+GCD of 2 and 45 is 1
+GCD of 75 and 80 is 5
